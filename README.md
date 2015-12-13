@@ -11,3 +11,7 @@ SteamAuthMobile.exe \<username\> \<command\>
 #Mono support
 
 You can compile it with Mono too.
+
+#SteamAuth library
+
+https://github.com/geel9/SteamAuth
