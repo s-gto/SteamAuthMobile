@@ -8,4 +8,6 @@ Compile it and call from console line:
 
 SteamAuthMobile.exe \<username\> \<command\>
 
+#Mono support
 
+You can compile it with Mono too.
