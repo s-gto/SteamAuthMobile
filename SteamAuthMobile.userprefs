@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SteamAuthMobile\SteamAuthMobile.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SteamAuthMobile\Program.cs">
+    <Files>
+      <File FileName="SteamAuthMobile\Program.cs" Line="4" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
