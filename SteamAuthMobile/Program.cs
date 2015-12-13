@@ -45,7 +45,7 @@ namespace SteamAuthCode
 				case "remove":
 					{
 						guard.DeactivateAuthenticator();
-						Console.Write("Authenticator remvoed successfully");
+						Console.Write("Authenticator removed successfully");
 						break;
 					}
 				}
